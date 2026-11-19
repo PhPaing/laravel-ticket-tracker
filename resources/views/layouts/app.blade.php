@@ -9,7 +9,7 @@
 <body class="bg-light">
     <nav class="navbar navbar-dark bg-dark mb-4">
         <div class="container">
-            <a class="navbar-brand" href="{{ route('tickets.index') }}">Ticket Tracker (Laravel)</a>
+            <a class="navbar-brand" href="{{ route('tickets.index') }}">Ticket Tracker (Laravel 12)</a>
         </div>
     </nav>
 
